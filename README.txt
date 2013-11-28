@@ -7,6 +7,6 @@ Petunjuk penggunaan :
 
 WEB service sederhana untuk menampilkan data dalam bentuk .xml
 
-URI : ../simpleweb/index.php/juri/getall
+URI : ../ikape/index.php/juri/getall
 
 untuk mengambil data semua juri
